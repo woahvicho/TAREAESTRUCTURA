@@ -131,7 +131,6 @@ Hasta pronto!
 
 ## Contribuciones
 
-- **Estudiante:** [Tu Nombre Completo]
+- **Nombre:** Vicente Gonzalez
 - **Asignatura:** Estructuras de Datos
-- **Institucion:** [Tu Universidad / Instituto]
-- **Fecha:** [Fecha]
+- **Universidad:** Universidad Catolica de Valparaiso
