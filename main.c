@@ -252,7 +252,7 @@ int main() {
             continue;
         }
 
-        //si leen esto tuve cambiar todo el codigo para usar las colas y funciones que ya existian en el 
+        //si leen esto tuve que cambiar todo el codigo para usar las colas y funciones que ya existian en el 
         //archivo de tdas xd
 
         switch (opcion) {
