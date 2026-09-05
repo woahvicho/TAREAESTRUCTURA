@@ -133,4 +133,4 @@ Hasta pronto!
 
 - **Nombre:** Vicente Gonzalez
 - **Asignatura:** Estructuras de Datos
-- **Universidad:** Universidad Catolica de Valparaiso
+- **Universidad:** Pontificia Universidad Catolica de Valparaiso
