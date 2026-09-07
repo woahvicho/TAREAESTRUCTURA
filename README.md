@@ -129,8 +129,6 @@ Hasta pronto!
 
 ---
 
-## Contribuciones
-
 - **Nombre:** Vicente Gonzalez
 - **Asignatura:** Estructuras de Datos
 - **Universidad:** Pontificia Universidad Catolica de Valparaiso
